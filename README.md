@@ -6,6 +6,6 @@ Abadon Creame is light theme with highlighting in pastels. Punctuation is called
 
 This theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW. Screenshots on GitHub.
 
-[View on Github](https://github.com/atom/abandon-mint-syntax)
+[View on Github](https://github.com/Tirjasdyn/abandon-mint-syntax)
 
 ## Screenshots (_Forthcoming_)

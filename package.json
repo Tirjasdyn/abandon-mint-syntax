@@ -11,7 +11,7 @@
     "mint",
     "icecream"
   ],
-  "repository": "https://github.com/atom/abandon-mint-syntax",
+  "repository": "https://github.com/Tirjasdyn/abandon-mint-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
