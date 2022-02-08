@@ -1,0 +1,19 @@
+{
+  "name": "abandon-mint-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A minty version of Abandon Cream, low contrast, green, ice cream colors",
+  "keywords": [
+    "syntax",
+    "theme"
+    "cream",
+    "light",
+    "mint",
+    "icecream"
+  ],
+  "repository": "https://github.com/atom/abandon-mint-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
